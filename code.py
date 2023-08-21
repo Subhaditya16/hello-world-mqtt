@@ -1,1 +1,3 @@
-print('Hello Subhaditya, This is Start')
+import code2
+
+print(code2.function())
